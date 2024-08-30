@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Sasuke Uchiha, You are provided with a set of labeled data points. Your task is to find the best linear function that fits these data points. The only arithmetic operators needed to answer the questions are'+'(addition) and'- '(subtraction). The answer should be correct to one decimal place.\n(1,3), (2,5), (3,7), (4,9)."
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following sentences into \"past tense\" and \"present tense\".\n- I saw a movie\n- I am watching a movie"
+    },
+    {
+        "question": "Sasuke Uchiha, Edit the sentence \"Animals shouldn't mistreated\"\nAnimals shouldn't mistreated"
+    },
+    {
+        "question": "Sasuke Uchiha, Find the product of the numbers\n5 and 8"
+    },
+    {
+        "question": "Sasuke Uchiha, Categorize the given text into one of three categories: adventure, comedy, or horror.\nThe townspeople ventured deep into the dark, murky woods, with only the moonlight to guide them."
+    },
+    {
+        "question": "Sasuke Uchiha, Name five common kitchen utensils.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Rewrite the sentence: \"The piece was written in a poetic form\"\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Categorize this article - is it about entertainment, health, education, sports, science, business or other?\nArticle: New AI Robot to Assist Doctors"
+    },
+    {
+        "question": "Sasuke Uchiha, Find the place value of the given digit in the number.\nNumber: 3758\nDigit: 7"
+    },
+    {
+        "question": "Sasuke Uchiha, Determine how many days there are in June 2020\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Given a sentence, generate the reverse of it.\nThe earth is round."
+    },
+    {
+        "question": "Sasuke Uchiha, Edit the given text so it reads correctly in terms of grammar, sentence structure and spelling.\nMe and my friend went to the cinema last niught and we saw a realy great movei."
+    },
+    {
+        "question": "Sasuke Uchiha, Sort these words in alphabetical order.\ngiraffe, zebra, elephant"
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you are given a set of instructions. The instructions are to be executed in order and the output is the resulting configuration after all instructions have been executed.\nStep1: move PersonX from LocationY to LocationZ Step2: add ThingX to LocationY Step3: remove ThingX from LocationZ."
+    },
+    {
+        "question": "Sasuke Uchiha, Categorize the given news article according to the five categories.\nBy Rose Naylor – NYT\n\nAmazon, the world’s largest online retailer, announced Thursday that it is investing $10 billion to expand its operations in the United States, creating a total of 100,000 new jobs in the process."
+    },
+    {
+        "question": "Sasuke Uchiha, Edit the sentence to make formal.\nIt looks altogether like the situation will be getting worse."
+    },
+    {
+        "question": "Sasuke Uchiha, Provide three objects made from plastic.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Convert the given time from 24-hour clock to 12-hour clock.\n15:37"
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you are given a text and several choices. You need to select the answer that best completes the text.\nSusan wants to go on a diet because she ___1___ too much lately. She's been eating out at restaurants a lot and has even started skipping meals___2___ she can have more money to spend on dinner. Her clothes are also fitting her tighter than usual, which is another sign that she's gained weight. Susan decides that starting Monday, she will cut out all processed foods and only eat fruits, vegetables, and lean proteins like chicken or fish. She knows it won't be easy, but hopefully by making these changes ___3___ ."
+    },
+    {
+        "question": "Sasuke Uchiha, Provide the text that completes the sentence\nI was exhausted because I had been walking for ____"
+    },
+    {
+        "question": "Sasuke Uchiha, Name one type of animal that lives in the ocean\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Classify this program as a high-level language or low-level language.\nJava"
+    },
+    {
+        "question": "Sasuke Uchiha, Categorize the given information as qualitative or quantitative.\nThe opinion of the public on the new mayor."
+    },
+    {
+        "question": "Sasuke Uchiha, Finish the sentence \"Dogs are ___________ pets.\"\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a creative phrase related to technology\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Write a sentence that indicates the given time frame.\nTwo days"
+    },
+    {
+        "question": "Sasuke Uchiha, List five objects found in a kitchen.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a list of integers. Your task is to output the sum of all odd numbers in the list.\n1, 2, 3, 4, 5."
+    },
+    {
+        "question": "Sasuke Uchiha, You need to answer the question 'Are the given steps in order?', given a set of steps describing a process. Your answer must be either Yes or No. If the answer is No, that means the steps are out of order and do not make sense in the order they are in. If the answer is Yes, that means the steps are in order and make sense in the order that they are in. A set of steps are not in order if thesteps reference information that is introduced \nin a later step.\nSteps: ['Disperse seeds by wind, animals, etc', 'The seeds reach ground', 'Grow into new trees']."
+    },
+    {
+        "question": "Sasuke Uchiha, For this task, you need to find the category of a given word by looking at the context in which it is used.\nI'm so tired after running for an hour!"
+    },
+    {
+        "question": "Sasuke Uchiha, Make a memorable slogan for a hand sanitizer.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following movie as either a horror movie or a romantic comedy.\nThe Notebook"
+    },
+    {
+        "question": "Sasuke Uchiha, Planet Earth has 3 oceans. List them.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, You need to determine if the statement provided is an opinion or a fact. An opinion is defined as a view or judgment about something, while a fact is defined as something that can be proven true and is not an opinion. If the statement cannot be proven, then it should be marked as Unknown. The output for this question should only be one of three: 'Opinion', 'Fact', or 'Unknown'.\nStatement: Columbus discovered America in 1492."
+    },
+    {
+        "question": "Sasuke Uchiha, Suggest a better way to construct the sentence.\nI will have gone to the store."
+    },
+    {
+        "question": "Sasuke Uchiha, Come up with the input for the following task: \"Rearrange the given sentence to make it more concise.\"\nThe world's highest peak is Mount Everest, which has an elevation of 8,848 meters above sea level."
+    },
+    {
+        "question": "Sasuke Uchiha, Turn the following phrase into an imperative sentence.\nPlease take out the garbage"
+    },
+    {
+        "question": "Sasuke Uchiha, For this task, you need to find out whether the given two strings are anagrams or not. Two words are called anagrams if they contain all the same characters in a different order.\n\"listen\" and \"silent\"."
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you are given a list of points and a target location. Your task is to find the closest point to the target location.\nPoints: [[3,4],[2,3],[1,2]], TargetLocation: [0,0]."
+    },
+    {
+        "question": "Sasuke Uchiha, Identify the appropriate synonym of the word 'help':\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a headline for a news article on the recent climate protests.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Rearrange the words given in the input to make a meaningful sentence.\nsociety a modern in work importance gender of"
+    },
+    {
+        "question": "Sasuke Uchiha, Scan the input for typos and correct them.\nRichard recieved a mmedal for his incredible performace."
+    },
+    {
+        "question": "Sasuke Uchiha, Delete all words with more than 5 letters from this sentence.\nThis sentence has many long words like 'sentence' and 'instruction'."
+    },
+    {
+        "question": "Sasuke Uchiha, Rewrite the given sentence using the same components but in a present tense.\nHe had been collecting coins for months."
+    },
+    {
+        "question": "Sasuke Uchiha, List 5 kinds of bees.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Change the following sentences so they use the third person point of view.\nI am swimming in the pool."
+    },
+    {
+        "question": "Sasuke Uchiha, Add three adjectives to describe the vehicle.\nA blue car"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a 5-digit random number in a range of 10000-20000\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Write an appropriate integer solution to the equation.\n3x + 2 = 8"
+    },
+    {
+        "question": "Sasuke Uchiha, Let's have a conversation\nHi"
+    },
+    {
+        "question": "Sasuke Uchiha, Given a set of synonyms, your task is to find the antonym pair(s) for the given word.\nhappy<sep>joyful<sep>elated<sep>glad."
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following statement as an opinion, fact or folklore.\n\"An apple a day keeps the doctor away.\""
+    },
+    {
+        "question": "Sasuke Uchiha, Name three endangered animal species.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Name one element related to the topic.\nClimate Change"
+    },
+    {
+        "question": "Sasuke Uchiha, John is telling a story about his trip to the store. For each sentence in the passage, select whether it best describes what happened first, second, third, or not at all.\nPassage: I went to the store. I bought some eggs. Then I bought some milk."
+    },
+    {
+        "question": "Sasuke Uchiha, Edit the text according to the guidelines given\nCad fas veers kit twis nead reed sah.\nGuidelines: Make the text readable and understandable"
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you need to edit the given text to make it suitable for a formal email.\nHi everyone!\n\nI hope everyone is doing great."
+    },
+    {
+        "question": "Sasuke Uchiha, Categorize the given news article according to the five categories.\nBy Rose Naylor – NYT\n\nAmazon, the world’s largest online retailer, announced Thursday that it is investing $10 billion to expand its operations in the United States, creating a total of 100,000 new jobs in the process."
+    },
+    {
+        "question": "Sasuke Uchiha, Edit the sentence “She visits to the beach everyday”\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following flowers as either annuals or perennials.\nMarigolds, Daisy, Sunflower"
+    },
+    {
+        "question": "Sasuke Uchiha, Add a phrase to express surprise\nI got the highest score in the class."
+    },
+    {
+        "question": "Sasuke Uchiha, Edit this passage to make it more concise:\n\nDuring the spring season, the temperature tends to be very pleasant, making it a great time of year to go outdoors.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following 3 animals into a correct category: Elephant, Octopus, and Bat.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Reverse the order of the sentences in this text.\nWe should focus on reducing emissions. We can achieve this by conserving energy."
+    },
+    {
+        "question": "Sasuke Uchiha, Determine whether the number sequence given is an arithmetic sequence.\n2, 5, 8, 11, 14"
+    },
+    {
+        "question": "Sasuke Uchiha, Automatically trim a given phrase\nphrase: \"The quick brown fox jumps over the lazy dog\""
+    },
+    {
+        "question": "Sasuke Uchiha, Reverse the text and find the output.\nKrebs"
+    },
+    {
+        "question": "Sasuke Uchiha, Find the area of a parallelogram.\nb = 3, h = 4."
+    },
+    {
+        "question": "Sasuke Uchiha, You are provided with a set of numbers. For each number in the set, you need to determine whether it is odd or even. The only arithmetic operator needed to answer the questions is'/'(division).\nSet 1: 3, 7, 12."
+    },
+    {
+        "question": "Sasuke Uchiha, Rewrite the following sentence in passive voice:\nThe store will close tomorrow at 5 pm.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, For the following list of numbers [1, 5, 9, 4], output the sum.\n[1, 5, 9, 4]"
+    },
+    {
+        "question": "Sasuke Uchiha, You are asked to generate a positive integer between 1 and 10 (inclusive), with the following constraints: If the input is less than 3, then you should output 3. If the input is greater than 7, then you should output 7. Otherwise, you can output either the input or its reverse number.\n2."
+    },
+    {
+        "question": "Sasuke Uchiha, For each question, you will be given a set of statements. Your job is to determine whether all the statements are true or not, based on the information in the passage. If all of them are indeed true according to the passage, output True. Otherwise, output False\nStatements: ['Oliver was unaware of their criminal occupations.', 'The Dodger provided Oliver with a free meal.']."
+    },
+    {
+        "question": "Sasuke Uchiha, Guess the next element in a given sequence\n3, 5, 7, 9, __"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a title for an article about artificially intelligent robots.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Translate this sentence into French: \"He is the best in the world\".\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a creative phrase related to technology\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Guess the missing word in the sentence: \n\nShe had a lot of ___, so she was always able to take on new challenges.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, You need to convert a number from base ten to binary.\nNumber in base 10: 42."
+    },
+    {
+        "question": "Sasuke Uchiha, Group the following ingredients into savory and sweet dishes.\nEgg, Olive Oil, Flour, Sugar"
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you are given two songs and asked to determine which song is more similar to the other in terms of genre.\nSong 1: Despacito by Luis Fonsi ft. Daddy Yankee  Song 2: Sorry by Justin Bieber."
+    },
+    {
+        "question": "Sasuke Uchiha, Come up with 3 alternative words with similar meaning to the word “strategic”.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Specify how the following sentence can be written to avoid repetition\nHe used the fork to eat and he used the knife to eat."
+    },
+    {
+        "question": "Sasuke Uchiha, Translate the phrase \"Salut tout le monde!\" to English.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Convert the following time into 12-hour format: 18:45\n18:45"
+    },
+    {
+        "question": "Sasuke Uchiha, You need to convert a number from base ten to binary.\nNumber in base 10: 42."
+    },
+    {
+        "question": "Sasuke Uchiha, Restore the following sentence using the synonyms provided\nenergetic, wakeful"
+    },
+    {
+        "question": "Sasuke Uchiha, Write a slogan for a green initiative.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Identify what is the area of expertise of the given sentence from the list of options.\nDonald Trump was impeached on December 18, 2019."
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following elements as either a metal or a non-metal\nOxygen"
+    },
+    {
+        "question": "Sasuke Uchiha, Change each noun to its plural form.\ntable, book, woman"
+    },
+    {
+        "question": "Sasuke Uchiha, Convert the given binary string to a decimal number.\n110111"
+    },
+    {
+        "question": "Sasuke Uchiha, Create a 2-line haiku poem on the topic of hope.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Given a short description, you need to provide an appropriate title for the story.\nA teenage girl living in a small rural town discovers a secret about her family and sets out to explore further."
+    },
+    {
+        "question": "Sasuke Uchiha, Convert this number from decimal to binary\n62"
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you are given restaurant Yelp reviews. The task is to classify a review as \"FOOD\" if the main sentiment of the review is about food or as \"NON-FOOD\" if the main sentiment of the review is not about food.\nI love their pad thai and drunken noodles! Although both are pretty greasy, they're still amazing nonetheless. Their prices are also fair for big portions."
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a table with data about sports teams, their wins/losses, and the cities they're from. Your job is to find all of the unique city names from the table.\nLos Angeles, California     San Francisco, California   San Diego, California."
+    },
+    {
+        "question": "Sasuke Uchiha, Add three adjectives to this sentence: \"He's a ____, _____, and _____ man\"\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Name four instruments of the string family.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Write a slogan for a green initiative.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Given a long word, determine whether the number of different letters it uses is even or odd.\nRussian."
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following email as either \"work-related\" or \"personal\".\nDear [person name],\n\nI'm writing to invite you to the launch of our company's new product. We are so excited to be launching it, and you'll be one of the first people to get to experience it. \n\nBest,\n[my name]"
+    },
+    {
+        "question": "Sasuke Uchiha, Select the most suitable word to describe the following definition.\n\"A large group of people, animals, or things that are all similar in another way\"\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Come up with three adjectives to describe the color red.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate five nouns related to the topic of technology.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Rewrite the following sentence to use the third person point of view.\n\"I don't understand this concept.\"\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Given a paragraph with six sentences, you will be asked a question about the order of those six sentences. Your answer must be either Yes or No, where Yes indicates that the given order makes sense, and No indicates that the given order does not make sense. A set of steps are not in order if the steps reference information that is introduced in a later step.\nSentences: ['I went to bed', 'I read for an hour', 'I fell asleep', 'Suddenly, my alarm went off', 'Startled, I woke up', 'It was 6am']."
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a question and two sentences. Your task is to determine whether the second sentence conveys either a stereotype, anti-stereotype, or is unrelated with respect to the first sentence and the target. A stereotype is a widely held but oversimplified notion of a group of people. An anti-stereotype is an idea that goes against the widely held but oversimplified notion of a group of people. Sentences and targets are unrelated if there is no relevance between them.\nTarget: artist \nAn artist's work captures their unique perspective of the world around them. They often explore social issues in their pieces, using colors and shapes to tell their story in ways that can be interpreted differently by each viewer."
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a list of integers. Your task is to output the sum of all odd numbers in the list.\n1, 2, 3, 4, 5."
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a positive integer. Your task is to convert it into its English representation in words. The integers will be between 0 and 999 (both inclusive).\n754."
+    },
+    {
+        "question": "Sasuke Uchiha, Add a phrase to express surprise\nI got the highest score in the class."
+    },
+    {
+        "question": "Sasuke Uchiha, Shorten the following sentence to be 3-5 words.\nShe started to jog around the track before the rain fell."
+    },
+    {
+        "question": "Sasuke Uchiha, Come up with a name for a software that helps people identify possible investment opportunities.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Given an input sentence, insert a pronoun that directs the sentence towards the user.\nI wake up early every morning."
+    },
+    {
+        "question": "Sasuke Uchiha, Compose a Haiku poem centered around the concept of happiness.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Given an input string, find the length of the longest palindrome within the string.\n\"racecar\""
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a description of an event and you need to determine whether it is bingo.\nThere are five columns on the card containing numbers 1-75, inclusive, with each column headed by B I N G O.  The center cell is considered \"free\" and can be used as a replacement for any number in any one call so there are really only 75 unique numbers that will ever appear during game play."
+    },
+    {
+        "question": "Sasuke Uchiha, You are given a paragraph. Your task is to determine whether it contains either a hyperbole or understatement. A hyperbole is an exaggeration while an understatement is the opposite of that, making something seem smaller than it really is.\nThe coffee at this shop tastes like melted tires and boiled milk."
+    },
+    {
+        "question": "Sasuke Uchiha, Given the following recipe, convert it to metric measurements.\n5 tablespoons butter"
+    },
+    {
+        "question": "Sasuke Uchiha, Fill in the blanks to complete the sentence.\nGlobal warming can be reversed by reducing ________ and __________."
+    },
+    {
+        "question": "Sasuke Uchiha, Create a three-line haiku about autumn.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Rank the given items from most complex to least complex.\nCrocodile, turtle, snake"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a Shakespearean insult.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Reorganize the sentence so its structure reflects the following: Subject - Verb - Object\nSleeping has been my hobby for years."
+    },
+    {
+        "question": "Sasuke Uchiha, Create a title for this poem.\nThe sun was shining and the birds were singing,\nA gentle breeze blew and kissed my face,\nMy feet skipping across the grass,\nA freedom from the mundane day."
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you're given a short story of five sentences written in natural language. However, the order of the given story is not correct. Your job is to return the correct order for the given five sentences to create a coherent short story with the new order that has the correct flow. Generate your answer using sentence numbers separated by commas such as '2,3,1'.\nSentence 1: She always dreamed of becoming an astronaut when she was younger. Sentence 2: When she was eight years old, her parents took her to see a space shuttle launch. Sentence 3: That day made her want to become an astronaut even more than before. Sentence 4: Nowadays however, very few people choose that profession. Sentence 5: Even though it's hard work, being an astronaut is still her dream job."
+    },
+    {
+        "question": "Sasuke Uchiha, Given a text and a keyword, list all the quotes within the text that include the given keyword.\nThe United Nations' purpose is \"to maintain international peace and security\" and to \"develop friendly relations among nations\" UN Charter 1945, Article 1 \nKeyword: peace"
+    },
+    {
+        "question": "Sasuke Uchiha, Finish the sentence \"Dogs are ___________ pets.\"\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Write a sentence that indicates the given time frame.\nTwo days"
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the given document asSports, Arts, Science, History\nThis article is about the life of tennis player Serena Williams"
+    },
+    {
+        "question": "Sasuke Uchiha, Give an example of a school in the United States.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a creative character name.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Generate a simile for knowledge.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, You are provided with a set of questions based on a passage. For each question, choose the most appropriate answer from the options given.\nPassage: A human being is a part of the whole called by us universe, \na part limited in time and space. He experiences himself, his thoughts and feelings as something separated from the rest,  which he calls reality and against which he measures himself. Question: What does a human being experience himself as?"
+    },
+    {
+        "question": "Sasuke Uchiha, Change the verb in the sentence from the passive to an active form\nThe glass was stained with fingerprints."
+    },
+    {
+        "question": "Sasuke Uchiha, Generate an effective headline for an article\nThe article is about the rise in rates of depression since the start of the coronavirus pandemic"
+    },
+    {
+        "question": "Sasuke Uchiha, Give one example of a liquid at room temperature\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Identify what type of sentence this is: My dog is cuddly and cute.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, You need to output 'Correct' or 'Incorrect', given a mathematical statement. If the statement is true, then your program should output Correct, otherwise it should output Incorrect.\nStatement: 22/7 >= pi."
+    },
+    {
+        "question": "Sasuke Uchiha, Classify the following object as an array or a dictionary in Python.\nmy_list = [1, 2, 3]"
+    },
+    {
+        "question": "Sasuke Uchiha, Create an email subject line for an advertisement.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, What would be an appropriate response to the following text message: \"Let's catch up this Sunday\"?\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Choose the correct variation of this word:\namendable"
+    },
+    {
+        "question": "Sasuke Uchiha, Name a modern invention\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Arrange the following words in a meaningful sentence: salmon, to, fishing, go\n"
+    },
+    {
+        "question": "Sasuke Uchiha, In this task, you are asked to complete the incomplete text. The given context is a conversation between two people. You must use the given information and common sense reasoning to fill in the blanks such that it results in a coherent sentence.\nPersonX: I really love dark chocolate ___PersonY because it's so rich and flavorful!"
+    },
+    {
+        "question": "Sasuke Uchiha, Translate \"Hello my friend\" into German.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Write the opposite of 'She is doing the task'.\n"
+    },
+    {
+        "question": "Sasuke Uchiha, Answer the following math problem: What is 20% of 800?\n"
+    }
+]
